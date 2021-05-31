@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>14BE1895-AC48-4DD2-863F-C1B092028E0F</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>14BE1895-AC48-4DD2-863F-C1B092028E0F.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>MapReduce-bzyywoydmiveeqcpvaeinjymlayr</string>
+			<key>timeStartedRecording</key>
+			<real>637709036.40026498</real>
+			<key>timeStoppedRecording</key>
+			<real>637709038.54897499</real>
+			<key>title</key>
+			<string>Build target MapReduce</string>
+			<key>uniqueIdentifier</key>
+			<string>14BE1895-AC48-4DD2-863F-C1B092028E0F</string>
+		</dict>
+		<key>EF84A34F-9D45-45F1-9044-7B895EC22AA8</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.tool</string>
+			<key>fileName</key>
+			<string>EF84A34F-9D45-45F1-9044-7B895EC22AA8.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>signature</key>
+			<string>MapReduce-guowksjkxjtqucauzevkdidzofyn</string>
+			<key>timeStartedRecording</key>
+			<real>635810698.50765896</real>
+			<key>timeStoppedRecording</key>
+			<real>635810706.04898703</real>
+			<key>title</key>
+			<string>Build target MapReduce</string>
+			<key>uniqueIdentifier</key>
+			<string>EF84A34F-9D45-45F1-9044-7B895EC22AA8</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

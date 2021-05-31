@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>7CB31548-5E08-4308-9A56-0305076B7EA5</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>7CB31548-5E08-4308-9A56-0305076B7EA5.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MapReduce project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MapReduce</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MapReduce</string>
+			<key>timeStartedRecording</key>
+			<real>635810706.12443805</real>
+			<key>timeStoppedRecording</key>
+			<real>635810735.571468</real>
+			<key>title</key>
+			<string>Run MapReduce</string>
+			<key>uniqueIdentifier</key>
+			<string>7CB31548-5E08-4308-9A56-0305076B7EA5</string>
+		</dict>
+		<key>97398379-BF79-4D43-A32C-FCB317EB61B1</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>97398379-BF79-4D43-A32C-FCB317EB61B1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>MapReduce project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>MapReduce</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Run MapReduce</string>
+			<key>timeStartedRecording</key>
+			<real>637709038.56558204</real>
+			<key>timeStoppedRecording</key>
+			<real>637709056.21209705</real>
+			<key>title</key>
+			<string>Run MapReduce</string>
+			<key>uniqueIdentifier</key>
+			<string>97398379-BF79-4D43-A32C-FCB317EB61B1</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
