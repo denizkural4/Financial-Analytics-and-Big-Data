@@ -1,4 +1,4 @@
-# Financial Analytics and Big Data Class
+# Financial Analytics and Big Data 
 Main Languages Used: C++, Python and SQL
 
 - Pulling Big Financial Data Streams, Parsing and cleaning them.
